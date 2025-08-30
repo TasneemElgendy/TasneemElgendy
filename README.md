@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👩‍💻 Tasneem Elgendy  
 
-<!--
-**TasneemElgendy/TasneemElgendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fresh Graduate | 💡 AI Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me  
+- Passionate about **Machine Learning, NLP, Computer Vision, Deep Learning, Generative AI, and Data Science**  
+- Skilled in **Python, PyTorch, TensorFlow, Hugging Face, Transformers, Neural Networks**  
+- Currently learning **Retrieval-Augmented Generation (RAG)** and building **end-to-end AI projects** to apply my knowledge in NLP and CV  
+- Actively seeking opportunities to kickstart my career as an **AI/ML Engineer**  
+
+---
+
+### 🚀 Skills & Tools  
+- **Languages:** Python  
+- **AI & ML:** Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI  
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Hugging Face, Scikit-learn, OpenCV  
+- **Specialized:** Transformers, Neural Networks, RAG  
+- **Other Tools:** Pandas, NumPy, Git/GitHub, Power BI  
+
+---
+
+### 📬 Connect With Me  
+- 📱 Phone: (+2) 1111126495  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tasneem-elgendy-905622203)  
+- ✉️ Email: [tasneemelgendy82@gmail.com](mailto:tasneemelgendy82@gmail.com)  
+
+---
+
+⭐️ From [TasneemElgendy](https://github.com/TasneemElgendy)
