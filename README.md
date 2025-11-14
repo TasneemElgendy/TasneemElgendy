@@ -1,6 +1,6 @@
 
 # 👩‍💻 Tasneem Elgendy
-### 🎓 Fresh Graduate | 💡 AI Engineer 
+###   💡 AI Engineer |🎓 Fresh Graduate
 # 💫 About Me:
 - Passionate about **Machine Learning, NLP, Computer Vision, Deep Learning, Generative AI, and Data Science**  
 - Skilled in **Python, PyTorch, TensorFlow, Hugging Face, Transformers, Neural Networks** 
