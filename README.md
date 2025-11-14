@@ -23,7 +23,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/tasneem-elgendy-905622203)  
 - ✉️ Email: [tasneemelgendy82@gmail.com](mailto:tasneemelgendy82@gmail.com)  
 ---
-# 📊 GitHub Stats:
+# 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=TasneemElgendy&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TasneemElgendy&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TasneemElgendy&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
